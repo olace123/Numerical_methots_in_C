@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570135205 source:c:\users\tmx\desktop\minimos_cuadrados\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1570837023 source:c:\users\tmx\desktop\metodos numericos\minimos_cuadrados\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+

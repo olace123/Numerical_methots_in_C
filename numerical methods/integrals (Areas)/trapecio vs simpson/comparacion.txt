@@ -1,0 +1,8 @@
+f(x)=x*x
+		h:	0.500000	Atrapecio:	1083.750000	Asimpson:	1083.333333
+		h:	0.250000	Atrapecio:	1083.437500	Asimpson:	1083.333333
+		h:	0.125000	Atrapecio:	1083.359375	Asimpson:	1083.333333
+		h:	0.062500	Atrapecio:	1083.339844	Asimpson:	1083.333333
+		h:	0.005000	Atrapecio:	1083.333375	Asimpson:	1083.333333
+		h:	0.000500	Atrapecio:	1083.333334	Asimpson:	1083.333333
+		h:	0.000050	Atrapecio:	1083.333333	Asimpson:	1083.333333
