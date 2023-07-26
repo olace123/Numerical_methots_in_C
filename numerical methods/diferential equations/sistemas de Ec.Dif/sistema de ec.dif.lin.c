@@ -41,7 +41,7 @@ int main()
     H=Crea_Matriz(1,1);
     H1=Crea_Matriz(1,1);
 
-    // Matrices A y B del Modelo
+    // A and B matrixes of the model 
     A.a[0][0]=R/L1;
     A.a[0][1]=-R/L1;
     A.a[1][0]=-R/L;
@@ -135,7 +135,7 @@ int main()
     return 0;
 }
 /*+------------------------------------------------------+
-  |      FUNCION QUE CREA UNA MATRIZ DINAMICA            |
+  |      FUNCTION THER BUILDS A DYNAMIC MATRIX          |
   +------------------------------------------------------+*/
 mat Crea_Matriz(int Filas,int Columnas)
 {
